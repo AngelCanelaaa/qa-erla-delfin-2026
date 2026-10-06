@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentos temporales de Office
+~$*
+*.tmp
+
+# Otros
+*.log
+
+# Temporal: cartel pendiente de autorización del asesor
+docs/cartel-congreso.pdf
