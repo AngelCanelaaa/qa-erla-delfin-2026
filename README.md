@@ -134,6 +134,7 @@ Entre las incidencias documentadas destacan:
 - [Constancia Delfín](docs/constancia-delfin.pdf) - constancia oficial de participación en el programa.
 - [Constancia UTBB](docs/constancia-utbb.pdf) - constancia emitida por la Universidad Tecnológica de Bahía de Banderas.
 - [Reconocimiento Verano XXXI](docs/reconocimiento-verano.pdf) - reconocimiento por la participación en la estancia académica.
+- [Reconocimiento como ponente](docs/reconocimiento-ponente.pdf) - reconocimiento por la participación como ponente en el Congreso Internacional del XXXI Verano del Programa Delfín.
 
 **Nota:** La matriz completa de casos de prueba y el informe técnico no se incluyen en este repositorio público por contener información interna del sistema evaluado y de la institución. Se pueden solicitar al autor con autorización del asesor académico.
 
