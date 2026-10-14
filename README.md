@@ -16,7 +16,6 @@ Proyecto desarrollado durante el XXXI Verano de la Investigación Científica y 
 - [Objetivo](#objetivo)
 - [Metodología](#metodología)
 - [Resultados](#resultados)
-- [Incidencias principales](#incidencias-principales)
 - [Competencias aplicadas](#competencias-aplicadas)
 - [Documentación](#documentación)
 - [Créditos](#créditos)
