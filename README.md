@@ -93,22 +93,14 @@ Registro de incidencias con descripción, severidad, pasos para reproducir y evi
 
 **Distribución:**
 
-- **PASS** - Mayoría de casos funcionales correctos.
-- **BUG** - 9 incidencias registradas (2 corregidas durante la estancia).
-- **REGRESIÓN** - 2 correcciones verificadas exitosamente.
+- **PASS** - Casos funcionales correctos.
+- **BUG** - Incidencias registradas.
+- **REGRESIÓN** - Correcciones verificadas exitosamente.
 
 Se realizaron pruebas de regresión que permitieron comprobar la corrección de incidencias previamente reportadas, cerrando el ciclo completo de QA: detección → reporte → corrección → verificación.
 
 ---
 
-## Incidencias principales
-
-Entre las incidencias documentadas destacan:
-
-- **BUG-001** - Indicador TIEMPO REAL desconectado en Safari (módulo Kitchen/KDS).
-- **BUG-003** - Mesas asignadas no aparecen en KDS en navegador Safari.
-- **BUG-006** - Warning de PHP expone rutas del servidor en módulo DAF (Information Disclosure).
-- **BUG-007** - Columna Folio recortada por menú lateral en Verificador de Tickets, impidiendo la auditoría visual de folios.
 
 **Regresiones verificadas:**
 
